@@ -1,5 +1,5 @@
 HH_API_URL = 'https://api.hh.ru/'
-BOT_TOKEN = '7313468547:AAGqCPYZLx7hxmiPy_W3TvASM_uyNch5V6Q'
+BOT_TOKEN = ''
 
 PARAMS = [
     {
